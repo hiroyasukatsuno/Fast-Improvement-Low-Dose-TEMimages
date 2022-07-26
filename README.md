@@ -23,14 +23,15 @@ The dataset consists of a set of three images: one bright image and two dark ima
 All Dataset will be opened.
 
 ### Testing
+
 Run "python test.py val/0001.tif".
 "test.jpg" file is generated.
 
-# dark image
+### dark image
 ![val/0001.tif](val/0001.tif)
 
-# improved image
-![test.jpg](test.jp)
+### improved image
+![test.jpg](test.jpg)
 
 ### Sample code for training and testing 
 Jupyter notebook files for training and testing are located in the ipynb folder.
