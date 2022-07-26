@@ -27,7 +27,7 @@ Run "python test.py val/0001.tif".
 This code will generate test.jpg file.
 
 ### Sample code for training and testing 
-Jupyter notebook files are located in the ipynb folder.
+Jupyter notebook files for training and testing are located in the ipynb folder.
 
 
 ## Citation
