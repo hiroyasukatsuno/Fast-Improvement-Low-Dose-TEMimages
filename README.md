@@ -24,7 +24,7 @@ All Dataset will be opened.
 
 ### Testing
 Run "python test.py val/0001.tif".
-This code will generate test.jpg file.
+"test.jpg" file is generated.
 
 ### Sample code for training and testing 
 Jupyter notebook files for training and testing are located in the ipynb folder.
