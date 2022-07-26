@@ -19,17 +19,20 @@ skimage<br/>
 
 ### Dataset
 Sample images are located at the ./train and ./val folder.
-The dataset consists of a set of three images: one bright image and two dark images.
+The dataset consists of a set of three images: one high-dose-electron (HDE) image and two low-dose-electron (LDE) images.
+The file format of images are 16-bit grayscale tiff.
+The resolution of HDE (LDE) image is 4096 x 4096 (512 x 512) pixels.<br/>
+
 All Dataset will be opened.
 
 ### Testing
 
-Run "python test.py val/0001.tif".
+Run "python test.py val/0002.tif".
 "test.jpg" file is generated.
 
 ### dark image
-This jpg image is converted from val/0001.tif for visualization.
-![sample.jpg](0059.jpg)
+This jpg image is converted from val/0002.tif for visualization.
+![0002.jpg](0002.jpg)
 
 ### improved image
 ![test.jpg](test.jpg)
