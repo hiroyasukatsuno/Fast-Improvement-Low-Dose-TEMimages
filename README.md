@@ -29,7 +29,7 @@ Run "python test.py val/0001.tif".
 
 ### dark image
 This jpg image is converted from val/0001.tif for visualization.
-![sample.jpg](0001.jpg)
+![sample.jpg](0059.jpg)
 
 ### improved image
 ![test.jpg](test.jpg)

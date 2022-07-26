@@ -1,5 +1,5 @@
 # Example:
-# $ python test.py val/0001.tif
+# $ python test.py 0059.tif
 #
 import sys
 import glob
