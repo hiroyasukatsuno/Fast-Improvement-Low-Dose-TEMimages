@@ -27,8 +27,8 @@ All Dataset will be opened.
 Run "python test.py val/0001.tif".
 "test.jpg" file is generated.
 
-### dark image
-![val/0001.tif](val/0001.tif)
+### dark image (This jpg image is converted from val/0001.tif.)
+![sample.jpg](0001.jpg)
 
 ### improved image
 ![test.jpg](test.jpg)
