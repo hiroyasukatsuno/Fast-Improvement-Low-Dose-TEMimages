@@ -9,13 +9,13 @@ This code includes the default model for training and testing.
 ## Setup
 
 ### Requirement
-Python (ver. 3) libraries:
-torch 
-torchvision
-segmentation_models_pytorch
-numpy
-cv2
-skimage
+Python (ver. 3) libraries:<br/>
+torch <br/>
+torchvision<br/>
+segmentation_models_pytorch<br/>
+numpy<br/>
+cv2<br/>
+skimage<br/>
 
 ### Dataset
 Sample images are located at the ./train and ./val folder.
@@ -26,10 +26,10 @@ All Dataset will be opened.
 Run "python test.py val/0001.tif".
 "test.jpg" file is generated.
 
-#dark image
+# dark image
 ![val/0001.tif](val/0001.tif)
 
-#improved image
+# improved image
 ![test.jpg](test.jp)
 
 ### Sample code for training and testing 
