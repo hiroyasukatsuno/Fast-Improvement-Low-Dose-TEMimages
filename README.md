@@ -25,16 +25,16 @@ The resolution of HDE (LDE) image is 4096 x 4096 (512 x 512) pixels.<br/>
 
 All Dataset will be opened.
 
-### Testing
+## Testing
 
 Run "python test.py val/0002.tif".
 "test.jpg" file is generated.
 
-### dark image
+### Before
 (0002.jpg is converted from val/0002.tif for visualization.)
 ![0002.jpg](0002.jpg)
 
-### improved image
+### after
 ![test.jpg](test.jpg)
 
 ### Sample code for training and testing 
