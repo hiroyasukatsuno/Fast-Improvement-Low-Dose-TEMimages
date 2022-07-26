@@ -31,7 +31,7 @@ Run "python test.py val/0002.tif".
 "test.jpg" file is generated.
 
 ### dark image
-This jpg image is converted from val/0002.tif for visualization.
+(0002.jpg is converted from val/0002.tif for visualization.)
 ![0002.jpg](0002.jpg)
 
 ### improved image
