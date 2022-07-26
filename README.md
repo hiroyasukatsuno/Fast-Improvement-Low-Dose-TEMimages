@@ -27,8 +27,8 @@ All Dataset will be opened.
 
 ## Testing
 
-Run "python test.py val/0002.tif".
-"test.jpg" file is generated.
+`python test.py val/0002.tif`
+
 
 ### Before
 This image (0002.jpg) is converted from val/0002.tif for visualization.
