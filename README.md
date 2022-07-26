@@ -1,4 +1,4 @@
-# FI-TEM_with_LDE
+# Fast-Improvement-Low-Dose-TEMimages
 
 This is a pytorch code of Fast improvement of TEM Images with Low-Dose Electrons by Deep Learning (Microsc. Microanal. 28 (2022), pp 138--144.)
 
