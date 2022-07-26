@@ -39,8 +39,6 @@ Jupyter notebook files for training and testing are located in the ipynb folder.
 
 
 ## Citation
-If you use our code and dataset for reserch, please cite our paper:
-
 Hiroyasu Katsuno, Yuki Kimura, Tomoya Yamazaki and Ichigaku Takigawa, Microsc. Microanal. 28 (2022) pp.138--144.
 
 ### License
