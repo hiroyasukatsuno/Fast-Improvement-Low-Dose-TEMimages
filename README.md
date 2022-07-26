@@ -31,7 +31,7 @@ Run "python test.py val/0002.tif".
 "test.jpg" file is generated.
 
 ### Before
-(0002.jpg is converted from val/0002.tif for visualization.)
+This image (0002.jpg) is converted from val/0002.tif for visualization.
 ![0002.jpg](0002.jpg)
 
 ### after
